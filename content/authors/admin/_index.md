@@ -34,3 +34,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
+Oliver is a PhD student in the [Synthetic Quantum Systems](http://www.kip.uni-heidelberg.de/synqs/) group at the Kirchhoff-Institut für Physik at Universität Heidelberg, Germany. He seeks to better understand the entanglement dynamics of spinor Bose-Einstein condensates primarily using entropic uncertainty relations, under the supervision of [Dr. Martin Gärttner](http://www.kip.uni-heidelberg.de/user/marting/?lang=en). His theoretical work is in close collaboration with the experimetnal team led by [Prof. Dr. Markus Oberthaler.](http://www.kip.uni-heidelberg.de/matterwave/)
