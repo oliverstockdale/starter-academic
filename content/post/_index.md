@@ -1,14 +1,15 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: Research
+subtitle: A summary of my current and past research topics
+date: 2020-09-29T16:19:14.561Z
+draft: false
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+featured: false
+image:
+  filename: featured.png
+  preview_only: true
 ---
+Blah blah blah blah
