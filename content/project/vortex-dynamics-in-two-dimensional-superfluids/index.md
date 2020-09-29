@@ -1,6 +1,6 @@
 ---
 title: Vortex dynamics in two-dimensional superfluids
-date: 2020-09-29T17:14:04.955Z
+date: 2020-09-28T17:14:04.955Z
 draft: false
 featured: false
 image:
