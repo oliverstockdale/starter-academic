@@ -15,6 +15,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/StockdaleOliver
+  - link: https://scholar.google.com.au/citations?user=QIGtBiAAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: Kirchhoff-Institut für Physik, Universität Heidelberg
     url: https://www.kip.uni-heidelberg.de
