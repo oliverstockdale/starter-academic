@@ -4,7 +4,6 @@ date: 2020-09-29T17:10:47.648Z
 summary: blah blah blah
 draft: false
 featured: false
-external_link: https://www.isoquant-heidelberg.de/project/entanglement-and-quantum-information-out-of-equilibrium/
 links: []
 image:
   filename: featured.jpg
