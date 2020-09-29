@@ -1,7 +1,7 @@
 ---
 title: Oliver R. Stockdale
 role: PhD student in Physics
-avatar_filename: ""
+avatar_filename: avatar.png
 bio: My research interests include ultracold quantum gases, entropic uncertainty
   relations, and superfluidity
 interests:
@@ -19,19 +19,13 @@ social:
     icon_pack: ai
     link: https://scholar.google.com.au/citations?user=QIGtBiAAAAAJ&hl=en
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Kirchhoff Institut für Physik, Universität Heidelberg
+    url: https://www.kip.uni-heidelberg.de
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BAdvSc (Hons. I) in Physics
+      institution: The University of Queensland
+      year: 2014
 email: ""
 superuser: true
 authors:
