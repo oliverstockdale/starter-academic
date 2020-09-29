@@ -2,10 +2,11 @@
 title: Oliver R. Stockdale
 role: PhD student in Physics
 avatar_filename: avatar.png
-bio: My research interests include ultracold quantum gases, entropic uncertainty
-  relations, and superfluidity
+bio: My research interests include ultracold quantum gases, entanglement
+  detection, entropic uncertainty relations, and superfluidity
 interests:
   - Ultracold quantum gases
+  - Entanglement detection
   - Entropic uncertainty relations
   - Superfluidity
 social:
