@@ -19,7 +19,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com.au/citations?user=QIGtBiAAAAAJ&hl=en
 organizations:
-  - name: Kirchhoff Institut für Physik, Universität Heidelberg
+  - name: Kirchhoff-Institut für Physik, Universität Heidelberg
     url: https://www.kip.uni-heidelberg.de
 education:
   courses:
