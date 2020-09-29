@@ -7,7 +7,7 @@ view: 2
 header:
   caption: ""
   image: ""
-featured: false
+featured: true
 image:
   filename: featured.png
   preview_only: true
