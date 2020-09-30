@@ -1,7 +1,8 @@
 ---
 title: Eureka Prize Finalist
-subtitle: The Australian Quantum Vortex Team has been announces as a finalist in
-  the Scientific Research category for the UNSW Eureka Prize.
+subtitle: The Australian Quantum Vortex Team has been announced as a finalist in
+  the Scientific Research category for the Eureka Prize awarded by the
+  Australian Museum.
 date: 2020-09-29T17:37:22.534Z
 draft: false
 featured: false
@@ -11,7 +12,7 @@ image:
   preview_only: false
   caption: The two UQ teams in the UQ Quantum Optics Lab
 ---
-The Australian Quantum Vortex Team, a collaboration between The University of Queensland (UQ), Monash University, Swinburne University of Technology, and University of Otago (from New Zealand!) has been nominated as a finalist in the Scientific Research category for the UNSW Eureka Prize. 
+The Australian Quantum Vortex Team, a collaboration between The University of Queensland (UQ), Monash University, Swinburne University of Technology, and University of Otago (from New Zealand!) has been nominated as a finalist in the Scientific Research category for the Australian Museum Eureka Prize. 
 
 As part of this team, we are being recognised for the research we published last year where we verified 70 year-old predictions about the dynamics of superfluid vortices. These results were carried out in three different experiments. 
 
