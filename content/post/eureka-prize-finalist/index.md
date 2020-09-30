@@ -4,6 +4,9 @@ subtitle: The Australian Quantum Vortex Team has been announced as a finalist in
   the Scientific Research category for the Eureka Prize awarded by the
   Australian Museum.
 date: 2020-09-29T17:37:22.534Z
+summary: The Australian Quantum Vortex team, a team of three different research
+  groups all studying superfluid vortices, has been announced as a finalist in
+  the Scientific Research category for the Eureka Prize!
 draft: false
 featured: false
 image:
