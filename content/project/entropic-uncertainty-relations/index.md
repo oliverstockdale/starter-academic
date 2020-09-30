@@ -1,8 +1,9 @@
 ---
-title: Entropic uncertainty relations
+title: Entanglement detection in quantum fields
 date: 2020-09-29T17:10:47.648Z
 draft: false
 featured: false
+external_link: https://www.google.com
 links: []
 image:
   filename: featured.jpg
