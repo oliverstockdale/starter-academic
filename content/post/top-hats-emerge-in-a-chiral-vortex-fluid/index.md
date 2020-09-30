@@ -1,7 +1,7 @@
 ---
 title: Top-hats emerge in a chiral vortex fluid
 subtitle: ""
-date: 2020-09-30T15:01:10.668Z
+date: 2020-07-24T15:01:00.000Z
 summary: Our paper is out in *Physical Review Research* where we study the
   collective dynamics of vortices to demonstrate a new universality class.
 draft: false
