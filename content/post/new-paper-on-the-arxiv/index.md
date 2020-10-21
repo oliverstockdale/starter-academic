@@ -10,7 +10,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: "Distribution of vortex matters for increasing energy at fixed angular
+  caption: "Distribution of vortex matter for increasing energy at fixed angular
     momentum. Credit: Matt Reeves & Tyler Neely."
 ---
 Our new paper, *[Emergence of off-axis equilibria in a quantum vortex gas](https://arxiv.org/abs/2010.10049)*, has just appeared on the arXiv!
