@@ -1,12 +1,9 @@
 ---
 title: Vortex dynamics in two-dimensional superfluids
-subtitle: My work at UQ was carried out under the expertise of Dr. Matt Reeves
-  and Prof. Matt Davis.
 date: 2020-09-28T17:14:04.955Z
 summary: A brief summary of my research into superfluid vortex dynamics.
 draft: false
 featured: false
-external_link: https://oliver-stockdale.netlify.app/project/vortex-dynamics-in-two-dimensional-superfluids/
 image:
   filename: featured.png
   focal_point: Smart
