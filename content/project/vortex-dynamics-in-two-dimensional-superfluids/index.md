@@ -4,7 +4,7 @@ date: 2020-09-28T17:14:04.955Z
 summary: A brief summary of my research into vortex dynamics.
 draft: false
 featured: false
-external_link: https://www.google.com
+external_link:
 image:
   filename: featured.png
   focal_point: Smart
