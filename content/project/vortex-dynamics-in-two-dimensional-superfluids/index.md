@@ -4,6 +4,7 @@ date: 2020-09-28T17:14:04.955Z
 summary: A brief summary of my research into superfluid vortex dynamics.
 draft: false
 featured: false
+external_link: https://www.google.com
 image:
   filename: featured.png
   focal_point: Smart
@@ -53,3 +54,7 @@ The final topic we studied was the interaction between single vortices and defec
 We decided to study the very simple case of a scattering problem between a single quantised vortex and a pinning defect within a superfluid. A schematic for the system can be found below, where the black lines represent sample trajectories of the vortex around the pinning potential.
 
 ![](schematic.png "Schematic of the system for studying vortex pinning.")
+
+In our work, we have developed an analytic approximation to study the conservative motion of vortices around the pinning potential. Our model predicts the trajectories, the stationary dynamics of the vortex within the pinning potential, as well as the unpinning of the vortex from the pinning potential.
+
+However, to study the pinning of a vortex, one needs to numerically simulate the Gross-Pitaevskii equation. Sampling the parameter space, we find that there are two distinct regimes of vortex pinning, each marked by a characteristic emission of sound energy. Through these simulations, we have learnt that vortices are generated within the pinning potential to assist with pinning, as well as to stabilise vortices within the pinning potential.
