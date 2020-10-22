@@ -4,6 +4,7 @@ date: 2020-09-28T17:14:04.955Z
 summary: A brief summary of my research into superfluid vortex dynamics.
 draft: false
 featured: false
+external_link: https://www.google.com
 image:
   filename: featured.png
   focal_point: Smart
@@ -42,6 +43,14 @@ Numerically simulating the dynamics of vortices within the point vortex model su
 
 We found excellent agreement with an experiment observing the expansion of chiral vortex clusters. The [UQ BEC lab](https://bec.equs.org) created a vortex cluster in a Rubidium-87 Bose-Einstein condensate and observed its dynamics over a few seconds. The results demonstrated some key signatures of the anomalous hydrodynamic theory. A sample expansion of the vortex cluster in each of the three regimes can be seen below.
 
-![](expansion.png)
+![](expansion.png "Sample expansions of a chiral vortex cluster in each of the three regimes.")
+
+Our work can be found in this [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138), appearing in *Physical Review Research*.
 
 ### Dynamics of vortex pinning
+
+The final topic we studied was the interaction between single vortices and defects within a superfluid. Vortex pinning is widespread in many systems, ranging from [atomic Bose-Einstein condensates](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.97.240402), [superfluid helium](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.3451), [exciton-polariton condensates](https://www.nature.com/articles/nphys1051/), [neutron stars](https://www.nature.com/articles/256025a0), and [superconductors](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.66.1125). Whilst very well studied in superconductors, there is less understanding of its physical processes in superfluids.
+
+We decided to study the very simple case of a scattering problem between a single quantised vortex and a pinning defect within a superfluid. A schematic for the system can be found below, where the black lines represent sample trajectories of the vortex around the pinning potential.
+
+![](schematic.png "Schematic of the system for studying vortex pinning.")
