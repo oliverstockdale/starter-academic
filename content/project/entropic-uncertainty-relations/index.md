@@ -17,7 +17,7 @@ At its most fundamental level, entanglement means that a combined description of
 
 Consider two spin-$\frac{1}{2}$ particles, where the total spin is zero. That is, if one were to measure the spin of particle A to be spin up, we know the second (without even measuring it) would be in the spin down state. The wave function of the combined system would then be
 
-$$|\psi\rangle_{AB} = \frac{1}{\sqrt{2}}\left\[|\uparrow\rangle_A|\downarrow{\,} \rangle_B + |\downarrow\ \rangle_A|\uparrow\ \rangle_B\right].$$
+$$|\psi\rangle_{AB} = \frac{1}{\sqrt{2}}\left\[|\uparrow\rangle_A|\downarrow\rangle_B + |\downarrow\rangle_A|\uparrow\rangle_B\right].$$
 
 This system is entangled as the state is not separable, i.e., $|\psi\rangle\_{AB} \neq |\psi\rangle\_{A}\otimes|\psi\rangle_{B}$. In this example, the measurement of the spins are perfectly (anti-)correlated.
 
