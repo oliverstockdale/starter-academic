@@ -15,7 +15,7 @@ Entanglement is an inherently quantum phenomenon with no classical counterpart. 
 
 At its most fundamental level, entanglement means that a combined description of many subsystems cannot be written as a product of the subsystems. This is best demonstrated with an example. 
 
-Consider two spin-$\frac{1}{2}$ particles, where the total spin is zero. That is, if one were to measure the spin of particle A to be spin up, we know the second (without even measuring it) would be in the spin down state. The wave function of the combined system would then be
+Consider two spin-$\frac{1}{2}$ particles, such as two electrons, where their total spin is zero. That is, if one were to measure the spin of particle A to be spin up, we know the second (without even measuring it) would be in the spin down state. The wave function of the combined system would then be
 
 $$|\psi\rangle_{AB} = \frac{1}{\sqrt{2}}\left\[|\\!\uparrow\rangle_A|\\!\downarrow\rangle_B + |\\!\downarrow\rangle_A|\\!\uparrow\rangle_B\right].$$
 
