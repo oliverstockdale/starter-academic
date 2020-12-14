@@ -29,7 +29,7 @@ education:
   courses:
     - course: Bachelor of Advanced Science (Hons. I) in Physics
       institution: The University of Queensland
-      year: 2014
+      year: 2018
 email: ""
 superuser: true
 authors:
