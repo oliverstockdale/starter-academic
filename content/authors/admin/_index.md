@@ -27,11 +27,11 @@ organizations:
     url: https://www.kip.uni-heidelberg.de
 education:
   courses:
-    - course: Master of Philosophy in Physics
+    - course: Master of Philosophy
       institution: The University of Queensland
       year: 2021
       link: https://espace.library.uq.edu.au/view/UQ:6c7d732
-    - course: Bachelor of Advanced Science (Hons. I) in Physics
+    - course: Bachelor of Advanced Science (Hons. I)
       institution: The University of Queensland
       year: 2018
 email: ""
