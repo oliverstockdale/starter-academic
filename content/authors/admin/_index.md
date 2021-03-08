@@ -30,7 +30,6 @@ education:
     - course: Master of Philosophy
       institution: The University of Queensland
       year: 2021
-      link: https://espace.library.uq.edu.au/view/UQ:6c7d732
     - course: Bachelor of Advanced Science (Hons. I)
       institution: The University of Queensland
       year: 2018
