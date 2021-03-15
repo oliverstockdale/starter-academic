@@ -25,7 +25,7 @@ event: 10th International Conference on Spontaneous Coherence in Excitonic Syste
 event_url: https://www.fleet.org.au/icsce/
 
 links:
-url_slides: "files/icsce.pdf"
+url_slides: "content/slides/icsce.pdf"
 
 publishDate: 2021-03-15T18:25:45.427Z
 draft: false
