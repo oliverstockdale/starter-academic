@@ -19,7 +19,7 @@ abstract: An understanding of the turbulent behaviour of superfluid flow is
   will also present results for vortex pinning in driven-dissipative polariton
   superfluid flows.
 location: Melbourne, Australia
-date: 2020-01-20
+date: 2020-01-30
 all_day: false
 event: 10th International Conference on Spontaneous Coherence in Excitonic Systems
 event_url: https://www.fleet.org.au/icsce/
