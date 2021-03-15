@@ -23,7 +23,10 @@ date: 2020-01-20
 all_day: false
 event: 10th International Conference on Spontaneous Coherence in Excitonic Systems
 event_url: https://www.fleet.org.au/icsce/
-url_slides = "files/icsce.pdf"
+
+links:
+url_slides: "files/icsce.pdf"
+
 publishDate: 2021-03-15T18:25:45.427Z
 draft: false
 featured: false
