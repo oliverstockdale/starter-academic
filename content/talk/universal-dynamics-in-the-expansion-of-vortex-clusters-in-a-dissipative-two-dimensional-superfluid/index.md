@@ -15,8 +15,8 @@ abstract: A large ensemble of quantum vortices in a superfluid may itself be
   theory predictions. Our theoretical, numerical, and experimental results
   establish the validity of the vortex fluid theory for superfluid systems.
 location: Online (due to COVID)
-date: 2021-03-18T
-all_day: false
+date: 2021-03-18
+all_day: true
 event: APS March Meeting
 event_url: https://march.aps.org
 publishDate: 2021-03-15T19:10:51.113Z
