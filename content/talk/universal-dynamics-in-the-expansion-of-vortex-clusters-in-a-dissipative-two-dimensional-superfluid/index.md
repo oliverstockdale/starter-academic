@@ -22,6 +22,7 @@ event_url: https://march.aps.org
 publishDate: 2021-03-15T19:10:51.113Z
 draft: false
 featured: false
+url_slides: "apsMarch.pdf"
 image:
   filename: featured
   focal_point: Smart
