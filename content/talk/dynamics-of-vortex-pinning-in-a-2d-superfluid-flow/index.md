@@ -20,7 +20,7 @@ abstract: An understanding of the turbulent behaviour of superfluid flow is
   superfluid flows.
 location: Melbourne, Australia
 date: 2020-01-30
-all_day: false
+all_day: true
 event: 10th International Conference on Spontaneous Coherence in Excitonic Systems
 event_url: https://www.fleet.org.au/icsce/
 
