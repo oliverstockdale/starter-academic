@@ -5,14 +5,14 @@ abstract: An understanding of the turbulent behaviour of superfluid flow is
   transistors. Therefore, an understanding of the dynamics of vortices and their
   pinning behaviour is essential. While vortex pinning is reasonably
   well-understood in superconductors, an understanding of the dynamics of vortex
-  pinning is not as well developed in superfluids [1, 2]. Here we simulate the
+  pinning is not as well developed in superfluids. Here we simulate the
   scattering of a quantised vortex off a pinning obstacle in a two-dimensional
   atomic superfluid using the Gross-Pitaevskii equation. We provide a framework
   for interpreting the numerical simulations by mapping the mean-field
   description of the superfluid to classical electrostatics. We show that our
   simulations are consistent with analytical solutions of an analogue system of
   a free charge interacting with a dielectric medium in regimes when the flow
-  velocity is small (see Fig. 1). By building a phase portrait of vortex pinning
+  velocity is small. By building a phase portrait of vortex pinning
   we elucidate the physical mechanisms that lead to vortex pinning, as well as
   calculating the superfluid velocity required to unpin a vortex. We find that
   larger pinning sites are not always the most efficient way to pin a vortex. We
