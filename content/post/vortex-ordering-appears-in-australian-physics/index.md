@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Along with my Master's supervisors [Matt Reeves](https://researchers.uq.edu.au/researcher/16962) and [Matt Davis](https://researchers.uq.edu.au/researcher/1134), I have written a summary article about our collective work on vortices in two-dimensional superfluids over the past few years. It has been published by the Australian Institute of Physics in their quarterly magazine *[Australian Physics](https://aip.org.au/australian-physics/)*.
+Along with [Matt Reeves](https://researchers.uq.edu.au/researcher/16962) and [Matt Davis](https://researchers.uq.edu.au/researcher/1134), I have written a summary article about our collective work on vortices in two-dimensional superfluids over the past few years. It has been published by the Australian Institute of Physics in their quarterly magazine *[Australian Physics](https://aip.org.au/australian-physics/)*.
 
 We discuss various results such as those which recently confirmed Lars Onsager's theory on vortex ordering (found [here](https://science.sciencemag.org/content/364/6447/1264.abstract)) as well as results which describe how superfluids dissipate energy via vortices (found [here](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138)).
 
