@@ -41,7 +41,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student in the [Many-Body Quantum Dynamics](https://mbqd.de) group at the Kirchhoff-Institut für Physik, Universität Heidelberg, Germany. Under the supervision of Priv.-Doz. Dr. Martin Gärttner, I seek to better understand the entanglement of quantum fields and improve upon their detection techniques. I primarily use theoretical methods such as entropic uncertainty relations to constrain measurements in spinor Bose-Einstein condensates. The theoretical research I carry out is in close collaboration with the experimental team in the [Synthetic Quantum Systems](https://synqs.org) group.
+I am a PhD student in the [Many-Body Quantum Dynamics](https://mbqd.de) group at the Kirchhoff-Institut für Physik, Universität Heidelberg, Germany. Under the supervision of Priv.-Doz. Dr. Martin Gärttner, I seek to better understand the entanglement of quantum fields and improve upon their detection techniques. I primarily use theoretical methods such as entropic uncertainty relations to constrain measurements in spinor Bose-Einstein condensates. The theoretical research I carry out is in close collaboration with experiments in the [Synthetic Quantum Systems](https://synqs.org) group.
 
 I previously studied the dynamics of superfluid vortices at the [ARC Centre of Excellence in Future Low-Energy Electronics](https://www.fleet.org.au), University of Queensland, Australia with [Dr. Matthew Reeves](https://researchers.uq.edu.au/researcher/16962) and [Prof. Matthew Davis](https://researchers.uq.edu.au/researcher/1134). We frequently collaborated with experimental teams using [ultracold atomic gases](https://bec.equs.org) and [superfluid helium-4](http://www.physics.uq.edu.au/QOlab/index.html).
 
