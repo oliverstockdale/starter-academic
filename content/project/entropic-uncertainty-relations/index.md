@@ -54,4 +54,4 @@ Our two central aims of the project are:
 * Use entropic uncertainty relations to understand the evolution of entanglement out of the Gaussian regime
 * Investigate the behaviour of entanglement in a system where multiple spatial modes of the condensater are excited
 
-An infographic for the first point (aimed at a general audience) can be found here.
+An infographic for the first point (aimed at a general audience) can be found [here](files/entanglement.pdf)
