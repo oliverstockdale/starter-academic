@@ -41,10 +41,10 @@ In the case of two systems like the spin-$\frac{1}{2}$ example, we can extend th
 
 $$H(\hat{X}_A|\hat{X}_B) + H(\hat{Z}_A|\hat{Z}_B) \geq -\log_2 c + S(\hat{\rho}_A|\hat{\rho}_B).$$
 
-Here, $H(\hat{X}_A|\hat{X}_B)$ represents the *conditional* entropy given we have access to measure system $B$. For the case of a separable state (i.e., not entangled), $S(\hat{\rho}_A|\hat{\rho}_B)=0$. Therefore, $-H(\hat{X}_A|\hat{X}_B) - H(\hat{Z}_A|\hat{Z}_B) -\log_2 c$ serves as an entanglement witness.
+Here, $H(\hat{X}_A|\hat{X}_B)$ represents the *conditional* entropy. This gives the entropy of $H(\hat{X}_A$ given we measure system $B$. For the case of a separable state (i.e., not entangled), $S(\hat{\rho}_A|\hat{\rho}_B)=0$. Therefore, $-H(\hat{X}_A|\hat{X}_B) - H(\hat{Z}_A|\hat{Z}_B) -\log_2 c$ serves as an entanglement witness.
 
 ### Entanglement in Heidelberg
 
-We aim to apply the concept of entropic uncertainty relations to Rubidium-87 spinor Bose-Einstein condensates (see, e.g., Kunkel *et al.,* [Science **360** (2018)](https://doi.org/10.1126/science.aao2254) for experimental details on entanglement generation).
+We aim to apply the concept of entropic uncertainty relations to witness entanglement in Rubidium-87 spinor Bose-Einstein condensates (see, e.g., Kunkel *et al.,* [Science **360** (2018)](https://doi.org/10.1126/science.aao2254) for experimental details on entanglement generation).
 
 In collaboration with experiments, we perform numerical simulations and analytical calculations to better understand entanglement within these systems. Our research applies entropic uncertainty relations to these systems hoping to better constrain measurements on entanglement and improve upon current theories.
