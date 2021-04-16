@@ -5,6 +5,7 @@ summary: A brief summary of my research into the detection of entanglement in
   quantum fields.
 draft: false
 featured: false
+external_link: g
 links: []
 image:
   filename: featured.jpg
@@ -17,7 +18,7 @@ At its most fundamental level, entanglement means that a combined description of
 
 Consider two spin-$\frac{1}{2}$ particles, such as two electrons, where their total spin is zero. That is, if one were to measure the spin of particle A to be spin up, we know the second (without even measuring it) would be in the spin down state. The wave function of the combined system would then be
 
-$$|\psi\rangle_{AB} = \frac{1}{\sqrt{2}}\left\[|\\!\uparrow\rangle_A|\\!\downarrow\rangle_B + |\\!\downarrow\rangle_A|\\!\uparrow\rangle_B\right].$$
+$$|\psi\rangle_{AB} = \frac{1}{\sqrt{2}}\left\[|\!\uparrow\rangle_A|\!\downarrow\rangle_B + |\!\downarrow\rangle_A|\!\uparrow\rangle_B\right].$$
 
 This system is entangled as the state is not separable, i.e., $|\psi\rangle\_{AB} \neq |\psi\rangle\_{A}\otimes|\psi\rangle_{B}$. In this example, the measurement of the spins are perfectly (anti-)correlated.
 
@@ -48,3 +49,10 @@ Here, $H(\hat{X}_A|\hat{X}_B)$ represents the *conditional* entropy. This gives 
 We aim to apply the concept of entropic uncertainty relations to witness entanglement in Rubidium-87 spinor Bose-Einstein condensates (see, e.g., Kunkel *et al.,* [Science **360** (2018)](https://doi.org/10.1126/science.aao2254) for experimental details on entanglement generation).
 
 In collaboration with experiments, we perform numerical simulations and analytical calculations to better understand entanglement within these systems. Our research applies entropic uncertainty relations to these systems hoping to better constrain measurements on entanglement and improve upon current theories.
+
+Our two central aims of the project are:
+
+* Use entropic uncertainty relations to understand the evolution of entanglement out of the Gaussian regime
+* Investigate the behaviour of entanglement in a system where multiple spatial modes of the condensater are excited
+
+An infographic for the first point (aimed at a general audience) can be found here.
