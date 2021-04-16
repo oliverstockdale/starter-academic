@@ -10,6 +10,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Credit: Scixel/TU Delft."
 ---
 Entanglement is an inherently quantum phenomenon with no classical counterpart. It has baffled Einstein, Heisenberg, and nearly every physicist since.
 
