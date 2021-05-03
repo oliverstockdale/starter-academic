@@ -22,10 +22,10 @@ publishDate: 2021-05-03T10:03:06.713Z
 draft: false
 featured: false
 links: 
+- name: Poster
+  url: "stockdalePoster.pdf"
 - name: Abstract
   url: "stockdaleAbstract_YAO2021.pdf"
-- name: Poster
-  url: "stockdalePoster"
 authors: []
 image:
   filename: featured
