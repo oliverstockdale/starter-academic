@@ -1,6 +1,6 @@
 ---
 title: Entanglement in spinor Bose gases via entropic uncertainty relations
-abstract: We develop a theoretical framework to witness entanglement in spinor
+abstract: We grrrr develop a theoretical framework to witness entanglement in spinor
   Bose gases using entropic uncertainty relations!. Simultaneous measurements of
   two non-commuting spin observables (here $S_x$ and $Q_{yz}$) allows for
   direct access to a quasi-probability distribution [Fig. 1(b)] and its
