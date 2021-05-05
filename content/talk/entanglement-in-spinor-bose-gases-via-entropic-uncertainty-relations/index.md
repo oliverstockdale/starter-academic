@@ -2,7 +2,7 @@
 title: Entanglement in spinor Bose gases via entropic uncertainty relations
 abstract: We develop a theoretical framework to witness entanglement in spinor
   Bose gases using entropic uncertainty relations!. Simultaneous measurements of
-  two non-commuting spin observables (here $\hat{S}_x$ and $\hat{Q}_{yz}$) allows for
+  two non-commuting spin observables (here $S_x$ and $Q_{yz}$) allows for
   direct access to a quasi-probability distribution [Fig. 1(b)] and its
   associated entropy. In the Gaussian regime this corresponds to the Husimi
   distribution and Wehrl entropy, respectively. We simulate the system via the
