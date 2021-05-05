@@ -1,7 +1,7 @@
 ---
 title: Entanglement in spinor Bose gases via entropic uncertainty relations
 abstract: We develop a theoretical framework to witness entanglement in spinor
-  Bose gases using entropic uncertainty relations. Simultaneous measurements of
+  Bose gases using entropic uncertainty relations!. Simultaneous measurements of
   two non-commuting spin observables (here $\hat{S}_x$ and $\hat{Q}_{yz}$) allows for
   direct access to a quasi-probability distribution [Fig. 1(b)] and its
   associated entropy. In the Gaussian regime this corresponds to the Husimi
@@ -21,7 +21,7 @@ event_url: https://conferences.au.dk/yao-2021/
 publishDate: 2021-05-03T10:03:06.713Z
 draft: false
 featured: false
-links: 
+links:
 - name: Poster
   url: "stockdalePoster.pdf"
 - name: Abstract
