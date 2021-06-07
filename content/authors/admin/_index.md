@@ -1,5 +1,5 @@
 ---
-title: Oliver R. Stockdale
+title: Oliver Stockdale
 role: PhD student in Physics
 avatar_filename: avatar.png
 bio: My research interests include ultracold quantum gases, entanglement
