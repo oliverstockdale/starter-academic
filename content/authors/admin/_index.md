@@ -47,4 +47,4 @@ I previously studied the dynamics of superfluid vortices at the [ARC Centre of E
 
 My publications can be viewed on my [Google Scholar page](https://scholar.google.com.au/citations?user=QIGtBiAAAAAJ&hl=en).
 
-I am also part of the student contributor network for the maganzine [*Physics World*](https://physicsworld.com). I write about recent research updates in the field  of quantum science and techology. My work can be found [here](https://physicsworld.com/author/oliver-stockdale/).
+I am also part of the student contributor network for the maganzine [*Physics World*](https://physicsworld.com). I write about recent research updates in the field of quantum science and techology. My articles can be found [here](https://physicsworld.com/author/oliver-stockdale/).
