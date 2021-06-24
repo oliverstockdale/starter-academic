@@ -24,7 +24,8 @@ be before even flipping the coin, and hence there is no uncertainty in the measu
 
 Entropy is a promising resource for measuring entanglement as it captures the *entire* probability distribution of a particular measurement. Many entanglement measures rely on second-order moments of a distribution, but
 entropies can capture *all* the moments. Entropic entanglement measures already exist, however our method exploits a different type of measurement that measures a particular distribution known as the [Husimi
-distribution](https://en.wikipedia.org/wiki/Husimi_Q_representation), $Q(x,p)$. The Husimi distribution has a entropy associated to it called the [Wehrl entropy](https://en.wikipedia.org/wiki/Wehrl_entropy), $S_W(Q)$.
+distribution](https://en.wikipedia.org/wiki/Husimi_Q_representation), $Q(x,p)$. The Husimi distribution has an entropy associated to it called the [Wehrl 
+entropy](https://en.wikipedia.org/wiki/Wehrl_entropy), $S_W(Q)$.
 
 The Husimi distribution contains all the information of the quantum state, and the great thing about it is that it can be measured! In quantum optics systems, it is well-established that the Husimi distribution is accessed via
 heterodying (see, e.g., [this book](https://onlinelibrary.wiley.com/doi/book/10.1002/3527602976) by Schleich). More recently, it has been shown the Husimi distribution can be measured in spinor Bose-Einstein condensates (see [this
@@ -42,7 +43,8 @@ These are known as the strong criteria. We can similarly define a weak criteria 
 
 $$S_M(Q_\pm) \geq 1 + \ln2.$$
 
-A violation of these bounds therefore entanglement. In our paper, we consider some examples of different quantum states to show our new entanglement witness works. We consider both Gaussian and non-Gaussian states and show that our witness is stronger than
+A violation of these bounds flag entanglement. In our paper, we consider some examples of different quantum states to show our new entanglement 
+witness works. We consider both Gaussian and non-Gaussian states and show that our witness is stronger than
 previous witnesses for certain non-Gaussian states, such as the Schrödinger cat state.
 
 An infographic that describes the main points of our preprint can be found [here](phaseSpace.pdf).
