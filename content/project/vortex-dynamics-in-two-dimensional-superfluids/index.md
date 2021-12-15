@@ -58,7 +58,10 @@ The final topic we studied was the interaction between single vortices and defec
 
 We decided to study the very simple case of a scattering problem between a single quantised vortex and a pinning defect within a superfluid. A schematic for the system can be found below, where the black lines represent sample trajectories of the vortex around the pinning potential.
 
-![](schematic.png "Schematic of the system for studying vortex pinning.")
+<p align="center">
+<img src="schematic.png">
+Figure 3: Schematic of the system for studying vortex pinning. Each black line represents a different vortex trajectory.
+</p>
 
 In our work, we have developed an analytic approximation to study the conservative motion of vortices around the pinning potential. Our model predicts the trajectories, the stationary dynamics of the vortex within the pinning potential, as well as the unpinning of the vortex from the pinning potential.
 
