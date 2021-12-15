@@ -30,7 +30,7 @@ Beyond its practical uses, entanglement has attracted interest at a fundamental 
 
 ### **Into the many-body regime**
 
-For the simple two-particle system discussed above, determining whether it is entangled is relatively straightforward and there are many methods for witnessing the entanglement. However, in the many-body limit, where there are tens of thousands of particles, detecting entanglement becomes increasingly difficult. One method that has been identified as a promosing withness is entropic uncertainty relations (see, e.g., Coles *et al.,* [Rev. Mod. Phys. **89**, 015002 (2017)](https://doi.org/10.1103/RevModPhys.89.015002) for a review).
+For the simple two-particle system discussed above, determining whether it is entangled is relatively straightforward and there are many methods for witnessing the entanglement. However, in the many-body limit, where there are tens of thousands of particles, detecting entanglement becomes increasingly difficult. One method that has been identified as a promising witness is entropic uncertainty relations (see, e.g., Coles *et al.,* [Rev. Mod. Phys. **89**, 015002 (2017)](https://doi.org/10.1103/RevModPhys.89.015002) for a review).
 
 Closely related to Heisenberg's uncertainty principle, the entropy we measure in a system is bounded from below. Consider a system with two observables $\hat{X}$ and $\hat{Z}$. For a finite-dimensional system, the entropic uncertainty relation is
 
@@ -53,6 +53,9 @@ In collaboration with experiments, we perform numerical simulations and analytic
 Our two central aims of the project are:
 
 * Use entropic uncertainty relations to understand the evolution of entanglement out of the Gaussian regime
-* Investigate the behaviour of entanglement in a system where multiple spatial modes of the condensater are excited
+* Investigate the behaviour of entanglement in a system where multiple spatial modes of the condensate are excited
 
 An infographic (aimed at a general audience) for the first point can be found [here](entanglement.pdf).
+
+Further information regarding our work on entanglement witnessing can be found 
+[here](https://oliver-stockdale.com/post/entropic-entanglement-now-on-the-arxiv/).
