@@ -26,8 +26,13 @@ For instance, in one project we worked closely with the [Queensland Quantum Opti
 
 In their experiment, vortices were present within the superfluid (see schematic below) which led to some unexplained obrservations. Vortices in thin-film superfluid helium cannot be directly imaged, so we simulated their dynamics to gain insight into the experiment and understand their observations. As the Gross-Pitaevskii equation fails for superfluid helium, we used an approximate method called the *point vortex model* to simulate the vortex dynamics.
 
-![](f1.large.jpg "Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.")
-*Figure 1: Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.*
+<p align="center">
+<img src="f1.large.png">
+Figure 1: Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.
+</p>
+
+#![](f1.large.jpg "Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.")
+#*Figure 1: Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.*
 
 Our collaboration led to the first observation of coherent vortex dynamics in a strongly-interacting superfluid in quasi-two-dimensions. Our results can be found summarised [here](https://science.sciencemag.org/content/366/6472/1480?casa_token=wM3m7mt5wb0AAAAA:I5dlf4yfCKk-qqV5x2U9-Zcsif8Sh8QNpTEmNbE4Z1JfLY8iUhzJKe9pkX4wBXSczNjyLhjJwCu5rP56).
 
