@@ -57,5 +57,5 @@ Our two central aims of the project are:
 
 An infographic (aimed at a general audience) for the first point can be found [here](entanglement.pdf).
 
-Further information regarding our work on entanglement witnessing can be found 
+More detailed information regarding our specific work on entanglement witnessing can be found 
 [here](https://oliver-stockdale.com/post/entropic-entanglement-now-on-the-arxiv/).
