@@ -42,9 +42,9 @@ Numerically simulating the dynamics of vortices within the point vortex model su
 
 We found excellent agreement with an experiment observing the expansion of chiral vortex clusters. The [UQ BEC lab](https://bec.equs.org) created a vortex cluster in a Rubidium-87 Bose-Einstein condensate and observed its dynamics over a few seconds. The results demonstrated some key signatures of the anomalous hydrodynamic theory. A sample expansion of the vortex cluster in each of the three regimes can be seen below.
 
-![](expansion.png "Sample expansions of a chiral vortex cluster in each of the three regimes.")
-
 Our work can be found in this [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138), appearing in *Physical Review Research*.
+
+![](expansion.png "Sample expansions of a chiral vortex cluster in each of the three regimes.")
 
 ### Dynamics of vortex pinning
 
@@ -58,4 +58,4 @@ In our work, we have developed an analytic approximation to study the conservati
 
 However, to study the pinning of a vortex, one needs to numerically simulate the Gross-Pitaevskii equation. Sampling the parameter space, we find that there are two distinct regimes of vortex pinning, each marked by a characteristic emission of sound energy. Through these simulations, we have learnt that vortices are generated within the pinning potential to assist with pinning, as well as to stabilise vortices within the pinning potential which makes it more difficult to pull vortices from the pinning potential. Our results may have interesting implications for understanding neutron star dynamics, as well as aiding in the development of low-energy superfluid transistors.
 
-A detailed study of the work described here can be found in my [Master's thesis](https://espace.library.uq.edu.au/view/UQ:6c7d732).
+The results of this project can be found in this [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.255302) from *Physical Review Letters*.
