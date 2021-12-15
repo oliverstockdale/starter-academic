@@ -28,7 +28,7 @@ In their experiment, vortices were present within the superfluid (see schematic 
 
 <p align="center">
 <img src="f1large.png">
-*Figure 1: Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.*
+Figure 1: Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.
 </p>
 
 Our collaboration led to the first observation of coherent vortex dynamics in a strongly-interacting superfluid in quasi-two-dimensions. Our results can be found summarised [here](https://science.sciencemag.org/content/366/6472/1480?casa_token=wM3m7mt5wb0AAAAA:I5dlf4yfCKk-qqV5x2U9-Zcsif8Sh8QNpTEmNbE4Z1JfLY8iUhzJKe9pkX4wBXSczNjyLhjJwCu5rP56).
@@ -47,7 +47,10 @@ We found excellent agreement with an experiment observing the expansion of chira
 
 Our work can be found in this [paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138), appearing in *Physical Review Research*.
 
-![](expansion.png "Sample expansions of a chiral vortex cluster in each of the three regimes.")
+<p align="center">
+<img src="expansion.png">
+Figure 2: Sample expansions of a chiral vortex cluster in each of the three regimes. 
+</p>
 
 ### Dynamics of vortex pinning
 
