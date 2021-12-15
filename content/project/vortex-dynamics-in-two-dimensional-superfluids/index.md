@@ -10,7 +10,7 @@ image:
   preview_only: false
   caption: "Credit: Dr. Chris Baker, UQ."
 ---
-Superfluidity is a rich and unusual phenomenon that exhibits macroscopic quantum behaviour. Superfluids have *zero viscosity*, which means they can flow without loss of kinetic energy. This has very interesting and exiciting implications to future quantum technologies where this *dissipationless* property of superfluidity could be exploited to, for example, [build very low-energy electronic transistors](http://www.fleet.org.au).
+Superfluidity is a rich and unusual phenomenon that exhibits macroscopic quantum behaviour. Superfluids have *zero viscosity*, which means they can flow without loss of kinetic energy. This has very interesting and exciting implications to future quantum technologies where this *dissipationless* property of superfluidity could be exploited to, for example, [build very low-energy electronic transistors](http://www.fleet.org.au).
 
 However, superfluids can contain quantum vortices – tiny whirlpools that spin around and interact with one another (see the header figure). These vortices can be closely related to the emergence of dissipation in a superfluid. As such, we must study their dynamics to understand how we can predict their behaviour and even, perhaps, control it.
 
@@ -18,13 +18,13 @@ To study these vortices, we can simulate their dynamics on a computer. Our start
 
 $$i\hbar\frac{\partial\Psi(\mathbf{r},t)}{\partial t} = \left\[-\frac{\hbar^2}{2m}\nabla^2+V(\mathbf{r})+g|\Psi(\mathbf{r},t)|^2\right]\Psi(\mathbf{r},t).$$
 
-Here, $V(\mathbf{r})$ is the trapping potential of the superfluid, and $g$ describes the interactions between the superfluid atoms. By numerically solving the Gross-Pitaevskii equation, we can either directly simulate an experiment to confirm their observations, or gain further information about physics that cannot be directly acccessed in an experiment.
+Here, $V(\mathbf{r})$ is the trapping potential of the superfluid, and $g$ describes the interactions between the superfluid atoms. By numerically solving the Gross-Pitaevskii equation, we can either directly simulate an experiment to confirm their observations, or gain further information about physics that cannot be directly accessed in an experiment.
 
 ### Thin-film superfluid helium
 
 For instance, in one project we worked closely with the [Queensland Quantum Optics Lab](http://www.physics.uq.edu.au/QOlab/index.html) to study the dynamics of vortices in thin-film superfluid helium. This experiment uses superfluids to perform optomechanical experiments to work towards building ultra-precise quantum sensors. 
 
-In their experiment, vortices were present within the superfluid (see schematic below) which led to some unexplained oberservations. Vortices in thin-film superfluid helium cannot be directly imaged, so we simulated their dynamics to gain insight into the experiment and understand their observations. As the Gross-Pitaevskii equation fails for superfluid helium, we used an approximate method called the *point vortex model* to simulate the vortex dynamics.
+In their experiment, vortices were present within the superfluid (see schematic below) which led to some unexplained obrservations. Vortices in thin-film superfluid helium cannot be directly imaged, so we simulated their dynamics to gain insight into the experiment and understand their observations. As the Gross-Pitaevskii equation fails for superfluid helium, we used an approximate method called the *point vortex model* to simulate the vortex dynamics.
 
 ![](f1.large.jpg "Schematic of vortex dynamics in the superfluid helium experiment. Credit: Dr. Chris Baker, UQ.")
 
@@ -34,7 +34,7 @@ Our collaboration led to the first observation of coherent vortex dynamics in a 
 
 From the superfluid helium experiments, we began to observe some interesting properties about the dynamics of *chiral vortex clusters* (collections of same-sign vortices). We found that in a finite temperature superfluid, **all** distributions of chiral vortex clusters expanded to form a Rankine vortex. A Rankine vortex can be thought of as a 'super vortex' made up of many vortices that are equally distributed (i.e., a Rankine vortex has a constant vortex density).
 
-We use a new theory that describes collections of vortices within the superfluid as a fluid in its own right. That is, the collection of vortices is thought of as a separate fluid and is goverened by its own Euler equation. In this Euler equation, however, there are additional terms that describe the quantum nature of the vortices giving rise to the name *anomalous hydrodynamics*. 
+We use a new theory that describes collections of vortices within the superfluid as a fluid in its own right. That is, the collection of vortices is thought of as a separate fluid and is governed by its own Euler equation. In this Euler equation, however, there are additional terms that describe the quantum nature of the vortices giving rise to the name *anomalous hydrodynamics*. 
 
 We found that this theory predicts the emergence of the Rankine vortex due to these anomalous terms. An analytical solution was found, which also described the Rankine vortex was a universal attractor solution. Whilst in classical fluids Rankine vortices are forbidden due to viscosity, they can be supported in superfluids.
 
@@ -56,6 +56,6 @@ We decided to study the very simple case of a scattering problem between a singl
 
 In our work, we have developed an analytic approximation to study the conservative motion of vortices around the pinning potential. Our model predicts the trajectories, the stationary dynamics of the vortex within the pinning potential, as well as the unpinning of the vortex from the pinning potential.
 
-However, to study the pinning of a vortex, one needs to numerically simulate the Gross-Pitaevskii equation. Sampling the parameter space, we find that there are two distinct regimes of vortex pinning, each marked by a characteristic emission of sound energy. Through these simulations, we have learnt that vortices are generated within the pinning potential to assist with pinning, as well as to stabilise vortices within the pinning potential which makes it more difficult to pull vortices from the pinning potential. Our results may have interesting implications for understanding neutron star dynamincs, as well as aiding in the development of low-energy superfluid transistors.
+However, to study the pinning of a vortex, one needs to numerically simulate the Gross-Pitaevskii equation. Sampling the parameter space, we find that there are two distinct regimes of vortex pinning, each marked by a characteristic emission of sound energy. Through these simulations, we have learnt that vortices are generated within the pinning potential to assist with pinning, as well as to stabilise vortices within the pinning potential which makes it more difficult to pull vortices from the pinning potential. Our results may have interesting implications for understanding neutron star dynamics, as well as aiding in the development of low-energy superfluid transistors.
 
 A detailed study of the work described here can be found in my [Master's thesis](https://espace.library.uq.edu.au/view/UQ:6c7d732).
