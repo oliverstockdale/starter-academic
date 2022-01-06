@@ -1,8 +1,7 @@
 ---
-title: Entropic entanglement now on the arXiv!
-subtitle: Our latest work has appeared on the arXiv. We derive a new set of
-  entanglement criteria in phase space that uses the Husimi distribution.
-date: 2021-06-24T14:01:28.484Z
+title: Entropic entanglement now out in PRA
+subtitle: Our latest work on entanglement detection has appeared in Physical Review A. We derive a new set of entanglement criteria in phase space that uses the Husimi distribution.
+date: 2022-01-05T14:01:28.484Z
 draft: false
 featured: false
 image:
@@ -13,8 +12,7 @@ image:
 consider in our work."
 ---
 
-Our new paper, *[Entropic entanglement criteria in phase space](https://arxiv.org/abs/2106.08788)*, has recently appeared
-on the arXiv!
+Our new paper, *[Entropic entanglement criteria in phase space](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.012409)*, has recently been published in Physical Review A!
 
 It is well known that entanglement is incredibly hard not just to measure, but also to witness. In our new paper, we develop a new method to witness entanglement that relies on measuring the entropy.
 
@@ -47,6 +45,6 @@ A violation of these bounds flag entanglement. In our paper, we consider some ex
 witness works. We consider both Gaussian and non-Gaussian states and show that our witness is stronger than
 previous witnesses for certain non-Gaussian states, such as the Schrödinger cat state.
 
-An infographic that describes the main points of our preprint can be found [here](phaseSpace.pdf).
+An infographic that describes the main points of our paper can be found [here](https://oliver-stockdale.com/post/entropic-entanglement-now-on-the-arxiv/phaseSpace.pdf).
 
 Enjoy reading!
