@@ -1,5 +1,5 @@
 ---
-title: Vortex pinning now published!
+title: Vortex pinning now published in PRL
 subtitle: Our recent results on vortex pinning in a superfluid is now published in PRL. We perform a simple numerical scattering experiment to investigate how vortices interact with defects in a zero-temperature superfluid. Enjoy reading!
 date: 2021-12-23T17:06:45.889Z
 draft: false
