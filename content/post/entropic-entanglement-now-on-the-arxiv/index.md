@@ -37,12 +37,12 @@ Our entanglement witness is then defined as
 
 $$ S_M(Q_\pm) \geq \ln\left(e^{S_W(Q_1)} + e^{S_W(Q_2)}\right).$$
 
-These are known as the strong criteria. We can similarly define a weak criteria by invoking some properties of the Wehrl entropy. The weak criteria is thus
+These are known as the strong criteria and apply to pure states. We can similarly define a weak criteria by invoking some properties of the Wehrl entropy. The weak criteria is thus
 
-$$S_M(Q_\pm) \geq 1 + \ln2.$$
+$$S_M(Q_\pm) \geq 1 + \ln2,$$
 
-A violation of these bounds flag entanglement. In our paper, we consider some examples of different quantum states to show our new entanglement 
-witness works. We consider both Gaussian and non-Gaussian states and show that our witness is stronger than
+describing both pure *and* mixed states. A violation of these bounds flag entanglement. In our paper, we consider some examples of different quantum states to show our new entanglement 
+witness works well. We consider both Gaussian and non-Gaussian states and show that our witness is stronger than
 previous witnesses for certain non-Gaussian states, such as the Schrödinger cat state.
 
 An infographic that describes the main points of our paper can be found [here](https://oliver-stockdale.com/post/entropic-entanglement-now-on-the-arxiv/phaseSpace.pdf).
