@@ -55,7 +55,8 @@ Our two central aims of the project are:
 * Use entropic uncertainty relations to understand the evolution of entanglement out of the Gaussian regime
 * Investigate the behaviour of entanglement in a system where multiple spatial modes of the condensate are excited
 
-An infographic (aimed at a general audience) for the first point can be found [here](entanglement.pdf).
+An infographic (aimed at a general audience) for the first point can be found 
+[here](https://oliver-stockdale.com/project/entropic-uncertainty-relations/entanglement.pdf).
 
 More detailed information regarding our specific work on entanglement witnessing can be found 
 [here](https://oliver-stockdale.com/post/entropic-entanglement-now-on-the-arxiv/).
