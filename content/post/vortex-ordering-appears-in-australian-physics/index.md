@@ -16,6 +16,6 @@ years. It has been published by the Australian Institute of Physics in their qua
 We discuss various results such as those which recently [confirmed Lars Onsager's theory on vortex ordering](https://science.sciencemag.org/content/364/6447/1264.abstract) as well as results which describe how [superfluids dissipate energy via 
 vortices](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138).
 
-The article can be found [here](https://aip.org.au/resources/Documents/AustralianPhysics/AusPhysicsMag_58_1.pdf) on the Austrlian Institute of Physics' website.
+The article can be found [here](https://aip.org.au/resources/Documents/AustralianPhysics/AusPhysicsMag_58_1.pdf) on the Australian Institute of Physics' website.
 
 I look forward to people reading it and, as always, welcome comments and feedback!
