@@ -10,10 +10,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Along with [Matt Reeves](https://researchers.uq.edu.au/researcher/16962) and [Matt Davis](https://researchers.uq.edu.au/researcher/1134), I have written a summary article about our collective work on vortices in two-dimensional superfluids over the past few years. It has been published by the Australian Institute of Physics in their quarterly magazine *[Australian Physics](https://aip.org.au/australian-physics/)*.
+Along with [Matt Reeves](https://researchers.uq.edu.au/researcher/16962) and [Matt Davis](https://researchers.uq.edu.au/researcher/1134), I have written a summary article about our collective work on vortices in two-dimensional superfluids over the past few 
+years. It has been published by the Australian Institute of Physics in their quarterly magazine *[Australian Physics](https://aip.org.au/PUBLICATIONS)*.
 
-We discuss various results such as those which recently confirmed Lars Onsager's theory on vortex ordering (found [here](https://science.sciencemag.org/content/364/6447/1264.abstract)) as well as results which describe how superfluids dissipate energy via vortices (found [here](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138)).
+We discuss various results such as those which recently [confirmed Lars Onsager's theory on vortex ordering](https://science.sciencemag.org/content/364/6447/1264.abstract) as well as results which describe how [superfluids dissipate energy via 
+vortices](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138).
 
-Currently, only members of the Australian Institute of Physics can read the article. However, after one year the publication becomes open access and anyone can access it!
+The article can be found [here](https://aip.org.au/resources/Documents/AustralianPhysics/AusPhysicsMag_58_1.pdf) on the Austrlian Institute of Physics' website.
 
 I look forward to people reading it and, as always, welcome comments and feedback!
