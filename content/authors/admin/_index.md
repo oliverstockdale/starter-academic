@@ -2,17 +2,17 @@
 title: Oliver Stockdale
 role: Physics Graduate
 avatar_filename: avatar.png
-bio: My research interests include ultracold quantum gases, entanglement
-  detection, entropic uncertainty relations, and superfluidity
+bio: My interests include scientific communication, applying my knowledge of physics to solve 
+  problems, as well as teaching maths and physics
 interests:
-  - Ultracold quantum gases
-  - Entanglement detection
-  - Entropic uncertainty relations
-  - Superfluidity
+  - Science communication
+  - Applications of physics
+  - Problem solving
+  - Teaching maths and physics
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:oliver.stockdale@kip.uni-heidelberg.de
+    link: mailto:o.r.stockdale@gmail.com
   - link: https://scholar.google.com.au/citations?user=QIGtBiAAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
