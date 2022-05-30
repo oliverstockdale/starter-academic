@@ -41,9 +41,14 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I was a graduate research assistant student in the [Many-Body Quantum 
+I was a graduate research assistant in the [Many-Body Quantum 
 Dynamics](https://mbqd.de) group at the 
-Kirchhoff-Institut für Physik, Universität Heidelberg, Germany. Under the supervision of Priv.-Doz. Dr. Martin Gärttner, I seek to better understand the entanglement of quantum fields and improve upon their detection techniques. I primarily use theoretical methods such as entropic uncertainty relations to constrain measurements in spinor Bose-Einstein condensates. The theoretical research I carry out is in close collaboration with experiments in the [Synthetic Quantum Systems](https://synqs.org) group.
+Kirchhoff-Institut für Physik, Universität Heidelberg, Germany. Under the supervision of 
+Priv.-Doz. Dr. Martin Gärttner, I sought to better understand the entanglement of quantum 
+fields 
+and improve upon their detection techniques. 
+The theoretical research I carried out was in close collaboration with experiments in the 
+[Synthetic Quantum Systems](https://synqs.org) group.
 
 I previously studied the dynamics of superfluid vortices at the [ARC Centre of Excellence in Future Low-Energy 
 Electronics](https://www.fleet.org.au), University of Queensland, Australia with [Dr. Matthew 
