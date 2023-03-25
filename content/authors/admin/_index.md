@@ -17,7 +17,7 @@ social:
     icon_pack: ai
     icon: google-scholar
   - link: https://www.linkedin.com/in/oliver-stockdale-3277b5140/
-    icon_pack: ai
+    icon_pack: fab
     icon: linkedin
   - icon: twitter
     icon_pack: fab
