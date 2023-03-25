@@ -1,6 +1,6 @@
 ---
 title: Oliver Stockdale
-role: Physics Graduate
+role: Air Quality Consulant
 avatar_filename: avatar.png
 bio: My interests include scientific communication, applying my knowledge of physics to solve 
   problems, as well as teaching maths and physics
@@ -16,9 +16,9 @@ social:
   - link: https://scholar.google.com.au/citations?user=QIGtBiAAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
-  - link: https://orcid.org/0000-0001-9924-036X
+  - link: https://www.linkedin.com/in/oliver-stockdale-3277b5140/
     icon_pack: ai
-    icon: orcid
+    icon: linkedin
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/StockdaleOliver
@@ -41,6 +41,12 @@ user_groups:
   - Researchers
   - Visitors
 ---
+I am an Air Quality Consultant at [Katestone Environmental](https://katestone.global). My 
+role involves understanding how clients' operations impact air quality by modelling their 
+activities. In addition to understand clients' impact to the local environemnt, I am also 
+interested in understanding how companies' greenhouse gas emissions affect the wider climate 
+and developing strategies to reduce their footprint. 
+
 I was a graduate research assistant in the [Many-Body Quantum 
 Dynamics](https://mbqd.de) group at the 
 Kirchhoff-Institut für Physik, Universität Heidelberg, Germany. Under the supervision of 
